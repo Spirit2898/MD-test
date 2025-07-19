@@ -113,7 +113,11 @@ surplus lines insurers in the state.
 7.  Alaska does not allow courtesy filings.
 Alaska
 
-## ELIGIBILITY AND FILING REQUIREMENTS (FOR ALIEN INSURERS NOT ON THE QUARTERLY LISTING OF ALIEN INSURERS MAINTAINED BY THE INTERNATIONAL INSURERS DEPARTMENT OF THE NAIC)
+
+## ELIGIBILITY AND FILING REQUIREMENTS (FOR ALIEN INSURERS NOT ON THE QUARTERLY LISTING OF ALIEN INSURERS MAINTAINED BY THE INTERNATIONAL
+
+
+## INSURERS DEPARTMENT OF THE NAIC)
 
 1.  Annual Report: certified and in U.S. dollars. Due
 annually 9 months after reporting period for non-IDD listed alien insurers).
@@ -517,6 +521,7 @@ domestic surplus lines insurers in the state.
 9.  California does not allow for underwriting activities
 or management functions on behalf of a surplus lines insurer to occur physically within the state, Bulletin 96-4 (May 30, 1996).
 
+
 ## ELIGIBILITY REQUIREMENTS FOR INSURERS QUALIFYING UNDER NRRA
 
 The provisions of the NRRA have been incorporated into Cal. Ins. Code § 1765.1 such that a broker may place surplus line insurance for California home state insureds with: •  Any foreign (U.S.-domiciled) insurer provided that the insurer has met the following requirements at the time of placement: (1) the insurer is licensed to write the type of insurance in its domiciliary jurisdiction, and (2) it has at least $45 million in capital and surplus.
@@ -757,11 +762,13 @@ Form D-1/D-2:
 
 “IMPORTANT NOTICE:
 
-## ENFORCEMENT THAT APPLY TO CALIFORNIA LIST, OR VIEW THAT LIST AT THE INTERNET
+
+## OUTSIDE OF THE UNITED STATES AND SHOULD 1.  THE INSURANCE POLICY THAT YOU BE ON THE NAIC’S INTERNATIONAL INSURERS [HAVE PURCHASED] [ARE APPLYING TO PURCHASE] IS BEING ISSUED BY AN INSURER  DEPARTMENT (IID) LISTING OF APPROVED THAT IS NOT LICENSED BY THE STATE  NONADMITTED NON-UNITED STATES INSURERS. OF CALIFORNIA. THESE COMPANIES ARE  ASK YOUR AGENT, BROKER, OR “SURPLUS CALLED “NONADMITTED” OR “SURPLUS LINE”  LINE” BROKER TO OBTAIN MORE INFORMATION INSURERS. ABOUT THAT INSURER. 7.  CALIFORNIA MAINTAINS A “LIST OF APPROVED 2.  THE INSURER IS NOT SUBJECT TO THE SURPLUS LINE INSURERS (LASLI).” ASK YOUR FINANCIAL SOLVENCY REGULATION AND AGENT OR BROKER IF THE INSURER IS ON THAT ENFORCEMENT THAT APPLY TO CALIFORNIA LIST, OR VIEW THAT LIST AT THE INTERNET
 
 LICENSED INSURERS.
 
-## WILL BE RETURNED TO YOU.” INFORMATION ABOUT THE INSURER. YOU
+
+## 3.  THE INSURER DOES NOT PARTICIPATE IN ANY  WEBSITE OF THE CALIFORNIA DEPARTMENT OF THE INSURANCE GUARANTEE FUNDS  OF INSURANCE: HTTP://WWW.INSURANCE. CREATED BY CALIFORNIA LAW. THEREFORE,  CA.GOV/01-CONSUMERS/120-COMPANY/07- THESE FUNDS WILL NOT PAY YOUR CLAIMS  LASLI/LASLI.CFM. OR PROTECT YOUR ASSETS IF THE INSURER  8.  IF YOU, AS THE APPLICANT, REQUIRED BECOMES INSOLVENT AND IS UNABLE TO  THAT THE INSURANCE POLICY YOU HAVE PURCHASED BE EFFECTIVE IMMEDIATELY, MAKE PAYMENTS AS PROMISED. EITHER BECAUSE EXISTING COVERAGE WAS 4.  THE INSURER SHOULD BE LICENSED EITHER AS GOING TO LAPSE WITHIN TWO BUSINESS DAYS A FOREIGN INSURER IN ANOTHER STATE IN THE OR BECAUSE YOU WERE REQUIRED TO HAVE UNITED STATES OR AS A NON-UNITED STATES COVERAGE WITHIN TWO BUSINESS DAYS, (ALIEN) INSURER. YOU SHOULD ASK QUESTIONS AND YOU DID NOT RECEIVE THIS DISCLOSURE OF YOUR INSURANCE AGENT, BROKER, OR FORM AND A REQUEST FOR YOUR SIGNATURE “SURPLUS LINE” BROKER OR CONTACT THE UNTIL AFTER COVERAGE BECAME EFFECTIVE, CALIFORNIA DEPARTMENT OF INSURANCE YOU HAVE THE RIGHT TO CANCEL THIS AT THE TOLL-FREE NUMBER 1-800-927-4357 POLICY WITHIN FIVE DAYS OF RECEIVING THIS OR INTERNET WEBSITE WWW.INSURANCE. DISCLOSURE. IF YOU CANCEL COVERAGE, CA.GOV. ASK WHETHER OR NOT THE INSURER THE PREMIUM WILL BE PRORATED AND ANY IS LICENSED AS A FOREIGN OR NON-UNITED BROKER’S FEE CHARGED FOR THIS INSURANCE STATES (ALIEN) INSURER AND FOR ADDITIONAL WILL BE RETURNED TO YOU.” INFORMATION ABOUT THE INSURER. YOU
 
 Date: ______________
 
@@ -770,7 +777,8 @@ Date: ______________
 
 Insured: ____________
 
-## COMMISSIONERS—IS THE REGULATORY SUPPORT ORGANIZATION CREATED AND
+
+## WEBSITE AT WWW.NAIC.ORG. THE NAIC—THE NATIONAL ASSOCIATION OF INSURANCE COMMISSIONERS—IS THE REGULATORY SUPPORT ORGANIZATION CREATED AND
 
 2025 Excess and Surplus Lines Laws Manual  |  27
 
@@ -856,6 +864,7 @@ service or overnight mail. Electronic filings will not be
 accepted.
 
 launch beyond the earth’s atmosphere.
+
 
 ## ELIGIBILITY AND FILING REQUIREMENTS (ALIEN OTHER COMMENTS OR REQUIREMENTS
 
@@ -1522,6 +1531,7 @@ Under Hawaii’s surplus lines laws, the surplus lines broker is responsible for
 INSURERS ONLY) Insurer must be on Quarterly Listing of Alien Insurers maintained by the International Insurers Department of the NAIC (the “IID List”), provided that (a) if an alien insurer is not on the IID List, the surplus lines broker shall maintain in the broker’s office evidence of the financial responsibility of the insurer; and (b) evidence to the commissioner that the insurer maintains in the U.S. a $5,400,000 trust fund.
 
 HI
+
 
 ## ELIGIBILITY AND FILING REQUIREMENTS (FOREIGN OTHER COMMENTS OR REQUIREMENTS
 
@@ -3935,6 +3945,7 @@ INSURERS ONLY): A surplus lines broker may not place coverage with a nonadmitted
 
 •  Appears on Ohio’s list of eligible surplus lines insurers.
 
+
 ## TYPES OF INSURANCE EXEMPTED FROM SURPLUS LINES REGULATION:
 
 Ocean marine insurance is exempt from reporting and taxation requirements when placed by a licensed agent.
@@ -3950,7 +3961,8 @@ ohio.gov/companies/surplus-lines/resources/ohio- eligible-sl-companies-risk-grou
 2.  Ohio DOI prefers the following language to appear
 on the declaration page of surplus lines policies:
 
-## THE STATE OF OHIO AND IS NOT COVERED IN CASE OF INSOLVENCY BY THE OHIO INSURANCE
+
+## THE INSURANCE HEREBY EVIDENCED IS WRITTEN BY AN APPROVED NON-LICENSED INSURER IN THE STATE OF OHIO AND IS NOT COVERED IN CASE OF INSOLVENCY BY THE OHIO INSURANCE
 
 GUARANTY ASSOCIATION�
 
@@ -4166,6 +4178,7 @@ If the company meets the above qualification, the following item should be provi
 
 PA
 
+
 ## ELIGIBILITY AND FILING REQUIREMENTS (FOREIGN TYPES OF INSURANCE EXEMPTED FROM SURPLUS
 
 INSURERS ONLY): LINES REGULATION:
@@ -4259,7 +4272,11 @@ domestic surplus lines insurers in the state.
 
 INSURERS): Puerto Rico does not imposes a fee, financial, premium or Puerto  Rico require information from foreign and/or alien insurers for surplus lines eligibility purposes, aside from the eligibility requirements set forth in NRRA.
 
-## TYPES OF INSURANCE EXEMPTED FROM REQUIREMENT THAT RISK BE PROCURED FROM AN ELIGIBLE SURPLUS LINES INSURER:
+
+## TYPES OF INSURANCE EXEMPTED FROM REQUIREMENT THAT RISK BE PROCURED FROM AN
+
+
+## ELIGIBLE SURPLUS LINES INSURER:
 
 Air and ocean marine risks (see Other Comments section #6).
 
@@ -4546,7 +4563,8 @@ transportation in interstate commerce and their  has a benefit limit in excess o
 4.  Insurance of aircraft owned or operated by
 a surplus lines coverage must be initialed by or bear manufacturers of aircraft, or aircraft operated in the name of the surplus lines broker who procured it scheduled interstate flight, or cargo of the aircraft, and have stamped upon it, in 10-pt or larger, boldface or against liability, other than workers’ compensation and employer’s liability, arising out of the ownership,  type, the following: maintenance, or use of the aircraft.
 
-## LICENSED BY NOR UNDER THE JURISDICTION OF OTHER COMMENTS OR REQUIREMENTS:
+
+## “THIS INSURANCE CONTRACT IS ISSUED BY A NON-ADMITTED INSURER WHICH IS NOT LICENSED BY NOR UNDER THE JURISDICTION OF OTHER COMMENTS OR REQUIREMENTS:
 
 1.  The onus is on broker to satisfy himself or herself that
 
@@ -5350,7 +5368,8 @@ can be found on the West Virginia DOI website at www.wvinsurance.gov by clicking
 9.  Each surplus lines insurance policy or evidence
 of insurance shall have printed or stamped in contrasting color on the front page the following statement:
 
-## SUBJECT TO THE WEST VIRGINIA INSURANCE GUARANTY ASSOCIATION ACT�
+
+## THIS COMPANY IS NOT LICENSED TO DO BUSINESS IN WEST VIRGINIA AND IS NOT SUBJECT TO THE WEST VIRGINIA INSURANCE GUARANTY ASSOCIATION ACT�
 
 2025 Excess and Surplus Lines Laws Manual  |  143 GENERAL INFORMATION:
 
@@ -5374,6 +5393,7 @@ insurers in the state.
 ## ELIGIBILITY AND FILING REQUIREMENTS (ALIEN
 
 Wisconsin INSURERS ONLY): Wisconsin may not prohibit a surplus lines broker from placing nonadmitted insurance with, or procuring nonadmitted insurance from, a nonadmitted alien insurer that is listed on the Quarterly Listing of Alien Insurers maintained by the International Insurers Department of the NAIC.
+
 
 ## ELIGIBILITY AND FILING REQUIREMENTS (FOREIGN INSURERS ONLY):
 
@@ -5427,6 +5447,7 @@ surplus lines insurers in the state.
 INSURERS): Wyoming does not require foreign or alien insurers to provide financial information or remit an application or renewing fee but has adopted Wyo. Stat. Ann. § 26-11-107 which sets forth minimum eligibility standards for both foreign and alien surplus lines insurers.
 
 WY
+
 
 ## ELIGIBILITY AND FILING REQUIREMENTS (FOREIGN  TYPES OF INSURANCE EXEMPTED FROM SURPLUS INSURERS ONLY): LINES REGULATION:
 
