@@ -2559,7 +2559,9 @@ coverage may be placed with a non-admitted company by a licensed insurance produ
 and health, workers’ compensation, compulsory motor vehicle liability and life insurance coverage placements in the surplus lines market. However, effective January 14, 2021, Mass. Gen. Laws ch. § 175:168 was amended to allow surplus lines insurers to offer certain coverages to “personal vehicle sharing programs” (as such term is defined under Mass. Gen. Laws ch. § §175:168).
 
 5. Assured must sign affidavit (Form BR-7), which
-must also be signed by broker, stating that he was informed by his insurance broker that the type and amount of insurance could be obtained from insurers not admitted in Massachusetts and that: • The surplus lines insurer with whom the insurance was placed is not licensed in Massachusetts and is not subject to Massachusetts regulations; and • In the event of the insolvency of the surplus lines insurer, losses will not be paid by the state insurance guaranty fund� 2025 Excess and Surplus Lines Laws Manual | 70 Michigan MI GENERAL INFORMATION
+must also be signed by broker, stating that he was informed by his insurance broker that the type and amount of insurance could be obtained from insurers not admitted in Massachusetts and that: • The surplus lines insurer with whom the insurance was placed is not licensed in Massachusetts and is not subject to Massachusetts regulations; and • In the event of the insolvency of the surplus lines insurer, losses will not be paid by the state insurance guaranty fund� 2025 Excess and Surplus Lines Laws Manual | 70 
+# Michigan MI 
+## GENERAL INFORMATION
 
 1. Michigan does not maintain a list of eligible surplus
 lines insurers. However, eligible surplus lines insurers can be found on its website via an entity search tool (see Other Comments section #1).
@@ -2812,7 +2814,9 @@ search of the admitted market be made before placing insurance with a surplus li
 8. Annual filing fees for Mississippi foreign eligible
 surplus lines insurers should be filed in accordance with certain NAIC procedures: https://www.mid.
 
-ms.gov/companies/pdf/statement-filing-requirements/ foreignsurpluslinescompaniesannstatefilerequire.pdf 2025 Excess and Surplus Lines Laws Manual | 77 Missouri MO GENERAL INFORMATION
+ms.gov/companies/pdf/statement-filing-requirements/ foreignsurpluslinescompaniesannstatefilerequire.pdf 2025 Excess and Surplus Lines Laws Manual | 77 
+# Missouri MO 
+## GENERAL INFORMATION
 
 1. Missouri maintains a list of eligible surplus lines
 insurers (see Other Comments section #1).
@@ -3128,7 +3132,9 @@ org/Resources/Export_List. There is also a list of coverages that are ineligible
 Association is as follows: Maria Muzea, Executive Director Nevada Surplus Lines Association 6490 S. McCarran Blvd, Building D-2 #39 Reno, NV 89509 Tel.: (775) 826-7898 Fax.: (775) 826-7003 Email: Maria@nsla.org.
 
 3. Each insurance contract procured and delivered as
-a surplus lines coverage must have conspicuously stamped upon it: “This insurance contract is issued pursuant to the Nevada insurance laws by an insurer neither licensed by nor under the supervision of the Division of Insurance of the Department of Business and Industry of the State of Nevada� If the insurer is found insolvent, a claim under this contract is not covered by the Nevada Insurance Guaranty Association Act�” 2025 Excess and Surplus Lines Laws Manual | 85 New Hampshire NH GENERAL INFORMATION
+a surplus lines coverage must have conspicuously stamped upon it: “This insurance contract is issued pursuant to the Nevada insurance laws by an insurer neither licensed by nor under the supervision of the Division of Insurance of the Department of Business and Industry of the State of Nevada� If the insurer is found insolvent, a claim under this contract is not covered by the Nevada Insurance Guaranty Association Act�” 2025 Excess and Surplus Lines Laws Manual | 85 
+# New Hampshire NH 
+## GENERAL INFORMATION
 
 1. New Hampshire maintains a list of eligible surplus
 lines insurers (see Other Comments section #1).
@@ -3715,7 +3721,9 @@ procured by the surplus lines licensee shall bear the name of the licensee and o
 10. North Carolina has authorized the creation of a North
 Carolina Stamping Office, making it the 15th Stamping Office in the nation. The North Carolina Stamping Office is the same as the North Carolina Surplus Lines Association (see Other Comments section #2).
 
-2025 Excess and Surplus Lines Laws Manual | 102 North Dakota ND GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 102 
+# North Dakota ND 
+## GENERAL INFORMATION:
 
 1. North Dakota maintains a list of eligible surplus
 lines insurers (see Other Comments section #1).
@@ -3789,7 +3797,9 @@ relating to delivery network company insurance requirements. Under the foregoing
 6. In February 2025, legislation (SB 2374) passed the
 North Dakota Senate regarding the elimination of the diligent effort requirements. If passed by the North Dakota House of Representative and enacted into law, it would bring North Dakota into the minority of states that have eliminated their diligent effort requirements.
 
-2025 Excess and Surplus Lines Laws Manual | 104 Ohio OH GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 104 
+# Ohio OH 
+## GENERAL INFORMATION:
 
 1. Ohio maintains a list of eligible surplus lines
 insurers (see Other Comments section #1).
@@ -3851,7 +3861,9 @@ payment of the surplus lines tax by surplus line brokers. Information on this sy
 4. When a diligent search is required, the Surplus Lines
 Statement (INS 4024) must be used. The form is located at: https://dam.assets.ohio.gov/image/upload/ insurance.ohio.gov/Forms/Documents/INS4024.pdf.
 
-2025 Excess and Surplus Lines Laws Manual | 106 Oklahoma OK GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 106 
+# Oklahoma OK 
+## GENERAL INFORMATION:
 
 1. Oklahoma maintains a list of eligible surplus lines
 insurers (see Other Comments section #1).
@@ -3930,7 +3942,9 @@ the Oklahoma DOI is requesting certain premium and policy information from surpl
 
 Such information is reported online via the Surplus Lines Information Portal. The Special Notice, which includes data the Oklahoma DOI is requesting, is available here at https://www.oid.ok.gov/wp-content/ uploads/2024/11/2024-11-7-24-0664-SPN-FINAL- Special-Notice.pdf.
 
-2025 Excess and Surplus Lines Laws Manual | 108 Oregon OR GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 108 
+# Oregon OR 
+## GENERAL INFORMATION:
 
 1. Oregon does not maintain an active list of
 approved surplus lines insurers (see Other Comments section #1).
@@ -4017,7 +4031,9 @@ auto coverage under the financial responsibility provisions.
 7. The Oregon Insurance Commissioner may accept
 foreign insurers on a case-by-case basis who do not meet the minimum capital requirements but in no event may the commissioner make an affirmative finding of acceptability when the surplus is less than $4.5 million.
 
-2025 Excess and Surplus Lines Laws Manual | 111 Pennsylvania PA GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 111 
+# Pennsylvania PA 
+## GENERAL INFORMATION:
 
 1. Pennsylvania maintains a list of eligible surplus
 lines insurers (see Other Comments section #1).
@@ -4111,7 +4127,9 @@ for foreign insurers to demonstrate eligibility (31 Pa.
 
 Code ch. 124). The Pennsylvania DOI will rely more on information available through the NAIC ISITE system. In addition to their Certificate of Authority, foreign insurers only need to submit their jurat page to the Pennsylvania DOI. The Pennsylvania Insurance Code also clarifies how a producer should document its diligent search effort in the placement of a policy.
 
-2025 Excess and Surplus Lines Laws Manual | 114 Puerto Rico PR GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 114 
+# Puerto Rico PR 
+## GENERAL INFORMATION:
 
 1. Puerto Rico maintains a list of eligible surplus lines
 insurers (see Other Comments section #1).
@@ -4169,7 +4187,9 @@ obtain five declinations of coverage from admitted insurers before attempting to
 of amending the Puerto Rico Insurance Code provision in compliance with the nationwide uniform requirements set forth by NRRA.
 
 9. Puerto Rico expressly authorizes surplus lines
-brokers to place “commercial property and contingency” cover with eligible surplus lines insurers. In addition, subject to certain limited requirements, 26 L.P.R.A. § 1007a-1 authorizes surplus lines placements for an “exempt commercial purchaser” as defined by the NRRA 2025 Excess and Surplus Lines Laws Manual | 116 Rhode Island RI GENERAL INFORMATION:
+brokers to place “commercial property and contingency” cover with eligible surplus lines insurers. In addition, subject to certain limited requirements, 26 L.P.R.A. § 1007a-1 authorizes surplus lines placements for an “exempt commercial purchaser” as defined by the NRRA 2025 Excess and Surplus Lines Laws Manual | 116 
+# Rhode Island RI 
+## GENERAL INFORMATION:
 
 1. Rhode Island maintains a list of eligible surplus
 lines insurers (foreign companies only)(see Other Comments section #1).
@@ -4246,7 +4266,9 @@ INSURERS INSOLVENCY FUND� SHOULD THE INSURER BECOME INSOLVENT, THE PROTECTION 
 
 ## OF THE RHODE ISLAND INSURERS INSOLVENCY FUND
 
-ARE NOT AVAILABLE�” 2025 Excess and Surplus Lines Laws Manual | 118 South Carolina SC GENERAL INFORMATION:
+ARE NOT AVAILABLE�” 2025 Excess and Surplus Lines Laws Manual | 118 
+# South Carolina SC 
+## GENERAL INFORMATION:
 
 1. South Carolina maintains a list of eligible surplus
 lines insurers (see Other Comments section #1).
@@ -4322,7 +4344,9 @@ policies in South Carolina must contain the following disclosure statement: “T
 5. South Carolina allows for “international major medical
 insurance” to be written on a non-admitted basis.
 
-2025 Excess and Surplus Lines Laws Manual | 120 South Dakota SD GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 120 
+# South Dakota SD 
+## GENERAL INFORMATION:
 
 1. South Dakota does not maintain a list of eligible
 surplus lines insurers.
@@ -4412,7 +4436,9 @@ with consumers, charging fees not specified in the insurance product and collect
 10. In September 2024, the South Dakota DOI is
 requesting certain premium and policy information from surplus lines insurers regarding surplus lines insurance that was written in South Dakota for the year 2024 and going forward. This data is necessary to reconcile the premiums written by surplus lines insurers with the premiums reported by nonadmitted filers, such as surplus line brokers. Such information is reported online via the Surplus Lines Information Portal, which is a change from previous reporting standards, which could be completed via submitting hardcopy paper submissions to the South Dakota DOI. The South Dakota request, which includes data the South Dakota DOI is requesting, is available at https://dlr.sd.gov/insurance/surplus_lines/documents/ reconciliation_of_non_admitted_premium.pdf.
 
-2025 Excess and Surplus Lines Laws Manual | 122 Tennessee TN GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 122 
+# Tennessee TN 
+## GENERAL INFORMATION:
 
 1. Tennessee does maintain a list of foreign eligible
 surplus lines insurers (see Other Comments section #1).
@@ -4496,7 +4522,9 @@ Tennessee DOI is requesting certain premium and policy information from surplus 
 
 This data is necessary to reconcile the premiums written by surplus lines insurers with the premiums reported by nonadmitted filers, such as surplus line brokers. Such information is reported online via the Surplus Lines Information Portal. Bulletin 25-01, which includes data the Tennesee DOI is requesting, is available at https://www.tn.gov/content/ dam/tn/commerce/documents/insurance/bulletins/ PremiumSurplusLinesFilingBulletin02052025.pdf.
 
-2025 Excess and Surplus Lines Laws Manual | 124 Texas TX GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 124 
+# Texas TX 
+## GENERAL INFORMATION:
 
 1. Texas maintains a list of eligible surplus lines
 insurers (see Other Comments section #1).
@@ -4677,7 +4705,9 @@ documentation; 28 Tex. Admin. Code § 15.112, relating to industrial insured doc
 15. Texas has eliminated the diligent search requirement
 for exporting flood insurance to the surplus lines market when the carrier has a financial strength rating of A- or better from the A. M. Best Company or with respect to commercial flood insurance not provided through the National Flood Insurance Program.
 
-2025 Excess and Surplus Lines Laws Manual | 129 Utah UT GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 129 
+# Utah UT 
+## GENERAL INFORMATION:
 
 1. Utah maintains a list of eligible surplus lines
 insurers (see Other Comments section #1).
@@ -4738,7 +4768,9 @@ statements, changes in directors and officers, and updated accounting or financi
 Contact: Sylvia Bruno, Executive Manager Phone: 801-944-0114 Email: sbruno@slaut.org.
 
 5. A policy issued must include a description of the
-subject of the insurance and indicate the coverage, conditions, and term of the insurance, the premium charged and premium taxes to be collected from the policyholder, and the name and address of the policyholder and insurer. If the direct risk is assumed by more than one insurer, the policy must state the names and addresses of all insurers and the portion of the entire direct risk each has assumed. All policies issued under the authority of this section must have attached or affixed to the policy the following statement: “The insurer issuing this policy does not hold a certificate of authority to do business in this state and thus is not fully subject to regulation by the Utah insurance commissioner� This policy receives no protection from any of the guaranty associations created under Title 31A, Chapter 28�” 2025 Excess and Surplus Lines Laws Manual | 131 Vermont VT GENERAL INFORMATION:
+subject of the insurance and indicate the coverage, conditions, and term of the insurance, the premium charged and premium taxes to be collected from the policyholder, and the name and address of the policyholder and insurer. If the direct risk is assumed by more than one insurer, the policy must state the names and addresses of all insurers and the portion of the entire direct risk each has assumed. All policies issued under the authority of this section must have attached or affixed to the policy the following statement: “The insurer issuing this policy does not hold a certificate of authority to do business in this state and thus is not fully subject to regulation by the Utah insurance commissioner� This policy receives no protection from any of the guaranty associations created under Title 31A, Chapter 28�” 2025 Excess and Surplus Lines Laws Manual | 131 
+# Vermont VT 
+## GENERAL INFORMATION:
 
 1. Vermont does not maintain a list of eligible surplus
 lines insurers.
@@ -4784,9 +4816,9 @@ OTHER COMMENTS OR REQUIREMENTS:
 whether surplus lines liability carriers must provide coverage for punitive as well as compensatory damages. The Vermont DOI allows surplus lines carriers to exclude punitive damages from surplus lines policies because that encourages the development of the surplus lines insurance market and the coverage of risks that would not otherwise be covered.
 
 2. Each surplus lines broker through whom a surplus
-lines insurance coverage is procured shall endorse on the outside of the policy and on any confirmation of the insurance, his or her name, address and license number, and the name and address of the producer, if any, through whom the business originated. Where such coverage is placed with an eligible surplus lines insurer there shall be stamped or written conspicuously in no smaller than 10-point boldface type of a contrasting color upon the first page of the policy and the confirmation of insurance if any, “The company issuing this policy has not been licensed by the state of Vermont and the rates charged have not been approved by the commissioner of insurance� Any default on the part of the insurer is not covered by the Vermont Insurance Guaranty Association�” 2025 Excess and Surplus Lines Laws Manual | 133 U.S.
-
-Virgin Islands USVI GENERAL INFORMATION:
+lines insurance coverage is procured shall endorse on the outside of the policy and on any confirmation of the insurance, his or her name, address and license number, and the name and address of the producer, if any, through whom the business originated. Where such coverage is placed with an eligible surplus lines insurer there shall be stamped or written conspicuously in no smaller than 10-point boldface type of a contrasting color upon the first page of the policy and the confirmation of insurance if any, “The company issuing this policy has not been licensed by the state of Vermont and the rates charged have not been approved by the commissioner of insurance� Any default on the part of the insurer is not covered by the Vermont Insurance Guaranty Association�” 2025 Excess and Surplus Lines Laws Manual | 133 
+# U.S. Virgin Islands USVI 
+## GENERAL INFORMATION:
 
 1. The U.S. Virgin Islands maintains a list of eligible
 surplus lines insurers (see Other Comments section #1).
@@ -4853,7 +4885,9 @@ and Financial Regulation issued ORDER NO. 11/2020, which lists various anticipat
 
 vi/departments/banking-insurance-and-financial- regulation/#1549548042314-869bbdfb-c612.
 
-2025 Excess and Surplus Lines Laws Manual | 135 Virginia VA General Information:
+2025 Excess and Surplus Lines Laws Manual | 135 
+# Virginia VA 
+## General Information:
 
 1. Virginia maintains a list of eligible foreign surplus
 lines insurers (see Other Comments section #1).
@@ -4941,7 +4975,9 @@ that surplus lines brokers attempt to procure insurance from a licensed insurer 
 9. The maximum assessment of fire insurance
 companies, including surplus lines policies, for the Fire Programs Fund is .025%.
 
-2025 Excess and Surplus Lines Laws Manual | 138 Washington WA GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 138 
+# Washington WA 
+## GENERAL INFORMATION:
 
 1. Washington does not maintain a list of eligible
 surplus lines insurers.
@@ -5026,7 +5062,9 @@ copies of the policies when filing. Rather, they are required to submit the foll
 
 If policy documents are not available within 60 days, the broker should complete the certification form and file these policy documents upon receipt.
 
-2025 Excess and Surplus Lines Laws Manual | 140 West Virginia WV GENERAL INFORMATION:
+2025 Excess and Surplus Lines Laws Manual | 140 
+# West Virginia WV 
+## GENERAL INFORMATION:
 
 1. West Virginia does maintain a list of eligible surplus
 lines insurers (see Other Comments Section #1).
@@ -5132,7 +5170,9 @@ of insurance shall have printed or stamped in contrasting color on the front pag
 
 ## SUBJECT TO THE WEST VIRGINIA INSURANCE
 
-GUARANTY ASSOCIATION ACT� 2025 Excess and Surplus Lines Laws Manual | 143 Wisconsin WI GENERAL INFORMATION:
+GUARANTY ASSOCIATION ACT� 2025 Excess and Surplus Lines Laws Manual | 143 
+# Wisconsin WI 
+## GENERAL INFORMATION:
 
 1. Wisconsin does not maintain a list of eligible surplus
 lines insurers (see Other Comments section #2).
@@ -5178,7 +5218,9 @@ commissioner may issue lists of unauthorized nondomestic insurers (surplus lines
 Stat. § 618.41 (6)(d), and would no longer evaluate financial statements submitted to the Commissioner’s office for that purpose.
 
 3. Every new or renewal insurance policy procured
-and delivered in Wisconsin shall bear the name and address of the insurance agent or broker who procured it and shall have stamped or affixed upon it the following: “This insurance contract is with an insurer which has not obtained a certificate of authority to transact regular insurance business in the state of Wisconsin, and is issued and delivered as a surplus line coverage pursuant to s� 618�41 of the Wisconsin Statutes� Section 618�43(1), Wisconsin Statutes, requires payment by the policyholder of 3% tax on gross premium�” 2025 Excess and Surplus Lines Laws Manual | 145 Wyoming WY General Information:
+and delivered in Wisconsin shall bear the name and address of the insurance agent or broker who procured it and shall have stamped or affixed upon it the following: “This insurance contract is with an insurer which has not obtained a certificate of authority to transact regular insurance business in the state of Wisconsin, and is issued and delivered as a surplus line coverage pursuant to s� 618�41 of the Wisconsin Statutes� Section 618�43(1), Wisconsin Statutes, requires payment by the policyholder of 3% tax on gross premium�” 2025 Excess and Surplus Lines Laws Manual | 145 
+# Wyoming WY 
+## General Information:
 
 1. Wyoming does not maintain a list of eligible surplus
 lines insurers.
